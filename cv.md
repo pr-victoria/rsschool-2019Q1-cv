@@ -1,5 +1,5 @@
-#Victoria Prokopenko
-####Skills:
+#Victoria Prokopenko  
+####Skills:  
 - HTML
 - CSS
 - JavaScript
