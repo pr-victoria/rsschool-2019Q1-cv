@@ -22,12 +22,12 @@
 
 ----
 ### Education:
-2019
-**Francisk Skorina Gomel State University**
+2019  
+**Francisk Skorina Gomel State University**  
 _Information Technologies Software Support_
 
-2015
-**Gomel State Agrarian Economic College**
+2015  
+**Gomel State Agrarian Economic College**  
 _Information Technologies Software Support_
 
 ----
