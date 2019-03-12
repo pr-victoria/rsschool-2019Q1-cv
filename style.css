@@ -63,7 +63,7 @@ main {
     flex-direction: column;
     background-color: #ffffff;
     color: #212121;
-    padding: 10mm 0mm;
+    padding: 20mm 0mm;
   }
 
 h1 {
@@ -76,7 +76,7 @@ h1 {
     text-transform: uppercase;
 }
 
-.fas {
+.fa-square {
     padding-right: 10px;
     vertical-align: text-top;
     color: maroon;
@@ -90,4 +90,10 @@ h1 {
 .right-column {
     float: right;
     padding-right: 50px;
+}
+
+.far,
+.fab,
+.fa-mobile-alt {
+    font-size: -webkit-xxx-large;
 }
